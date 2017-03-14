@@ -1,0 +1,15 @@
+C:\Users\Eduard\Учёба\Университет 4 семестр\ООП\Лабораторные\Laba4\Laba4\bin\Debug\Laba4.exe.config
+C:\Users\Eduard\Учёба\Университет 4 семестр\ООП\Лабораторные\Laba4\Laba4\bin\Debug\Laba4.exe
+C:\Users\Eduard\Учёба\Университет 4 семестр\ООП\Лабораторные\Laba4\Laba4\bin\Debug\Laba4.pdb
+C:\Users\Eduard\Учёба\Университет 4 семестр\ООП\Лабораторные\Laba4\Laba4\obj\Debug\Laba4.csprojResolveAssemblyReference.cache
+C:\Users\Eduard\Учёба\Университет 4 семестр\ООП\Лабораторные\Laba4\Laba4\obj\Debug\Laba4.exe
+C:\Users\Eduard\Учёба\Университет 4 семестр\ООП\Лабораторные\Laba4\Laba4\obj\Debug\Laba4.pdb
+C:\Users\Eduard\Desktop\Laba4\Laba4\bin\Debug\Laba4.exe.config
+C:\Users\Eduard\Desktop\Laba4\Laba4\obj\Debug\Laba4.exe
+C:\Users\Eduard\Desktop\Laba4\Laba4\obj\Debug\Laba4.pdb
+D:\Univer\4 семестр\С#\Labs\Laba4\Laba4\bin\Debug\Laba4.exe.config
+D:\Univer\4 семестр\С#\Labs\Laba4\Laba4\obj\Debug\Laba4.exe
+D:\Univer\4 семестр\С#\Labs\Laba4\Laba4\obj\Debug\Laba4.pdb
+D:\Univer\4 семестр\С#\Labs\Laba4\Laba4\bin\Debug\Laba4.exe
+D:\Univer\4 семестр\С#\Labs\Laba4\Laba4\bin\Debug\Laba4.pdb
+D:\Univer\4 семестр\С#\Labs\Laba4\Laba4\obj\Debug\Laba4.csprojResolveAssemblyReference.cache
